@@ -187,21 +187,21 @@ export const Skill_data = [
     },
     {
       skill_name: "Postger SQL",
-      Image: "/postger.png",
-      width: 70,
-      height: 70,
-    },
-    {
-      skill_name: "My SQL",
       Image: "/mysql.png",
       width: 70,
       height: 70,
     },
     {
       skill_name: "Prisma",
-      Image: "/prisma.webp",
-      width: 70,
-      height: 70,
+      Image: "/mongodb.png",
+      width: 40,
+      height: 40,
+    },
+    {
+      skill_name: "Graphql",
+      Image: "/node-js.png",
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "Graphql",
@@ -245,7 +245,7 @@ export const Skill_data = [
   export const Other_skill = [
     {
       skill_name: "Go",
-      Image: "/go.png",
+      Image: "/react.png",
       width: 60,
       height: 60,
     },
