@@ -15,13 +15,13 @@ const Projects = () => {
           src="/Photo1.png"
           title="An academic website for administering tests "
           description="This website was developed by me and two others as part of a university graduation project. It is designed to administer exams while preventing cheating, using technology that blocks it"
-          link="https://github.com/talhiislam/ExameWebsite.git"
+          link="https://talhiislam.github.io/ExameWebsite/"
         />
         <ProjectCard
           src="/Photo2.png"
           title="Search Job"
           description="This website is dedicated to logging requests from owners of different establishments who are seeking employees, and it also allows job seekers to view these requests and apply for the jobs they are interested in."
-          link="https://github.com/talhiislam/Search-Job.git"
+          link="https://talhiislam.github.io/Search-Job/"
         />
         <ProjectCard
           src="/SpaceWebsite.png"
