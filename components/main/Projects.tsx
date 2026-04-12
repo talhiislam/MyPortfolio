@@ -10,18 +10,18 @@ const Projects = () => {
       <h1 className="text-[30px] md:text-[40px] font-semibold text-center text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-10 md:py-20">
         My Projects
       </h1>
-      <div className="h-full w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 px-5 md:px-10">
+      <div className="h-full w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 px-5 md:px-10 z-50">
         <ProjectCard
           src="/Photo1.PNG"
           title="An academic website for administering tests "
           description="This website was developed by me and two others as part of a university graduation project. It is designed to administer exams while preventing cheating, using technology that blocks it"
-          link="https://talhiislam.github.io/ExameWebsite/"
+          link="https://exame-website.vercel.app/"
         />
         <ProjectCard
           src="/Photo2.PNG"
           title="Search Job"
           description="This website is dedicated to logging requests from owners of different establishments who are seeking employees, and it also allows job seekers to view these requests and apply for the jobs they are interested in."
-          link="https://talhiislam.github.io/Search-Job/"
+          link="https://search-job-ashy.vercel.app/"
         />
         <ProjectCard
           src="/SpaceWebsite.png"
@@ -30,7 +30,7 @@ const Projects = () => {
         />
         <ProjectCard
           src="/Photo3.PNG"
-          title=" AI Lerning"
+          title=" AI Learning"
           description="This website is dedicated to generating reviews and exams with artificial intelligence, and it is designed to help students learn and prepare for their exams in an easy and effective way."
           link="https://ai-platform-frontend-gamma.vercel.app/"
         />
